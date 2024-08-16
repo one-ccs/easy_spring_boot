@@ -1,0 +1,10 @@
+.vscode
+.idea
+.vscodecounter
+.history
+node_modules
+dist
+logs
+
+*.log*
+*.local
