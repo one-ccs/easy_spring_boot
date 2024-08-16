@@ -1,4 +1,8 @@
-# 目录结构说明
+# Easy SpringBoot
+
+基于 Java 17、SpringBoot 3.3.2 开发的后端框架，集成 MyBits-Plus（MySQL）、SpringDoc、SpringSecurity（JWT）等插件
+
+## 目录结构说明
 
 ```plaintext
 project-root/
