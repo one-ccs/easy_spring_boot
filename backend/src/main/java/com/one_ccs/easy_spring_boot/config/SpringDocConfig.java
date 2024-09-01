@@ -48,7 +48,7 @@ public class SpringDocConfig {
             )
             .info(new Info()
                 .title("Easy SpringBoot API")
-                .description("Easy SpringBoot 开放文档")
+                .description("基于 Java 17、SpringBoot 3.3.2 开发的后端框架，集成 MyBits-Plus、SpringDoc、SpringSecurity 等插件，旨在提供一个高效、易用的后端开发环境。该框架通过清晰的目录结构和模块化设计，帮助开发者快速构建和部署后端服务。")
                 .version("v1.0.0")
                 .license(new License()
                     .name("开源协议：MIT")
